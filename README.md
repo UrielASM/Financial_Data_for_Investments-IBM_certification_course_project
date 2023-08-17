@@ -1,1 +1,1 @@
-# Python-Project-for-Data-Science-repo
+# Financial Data for an Investment Firm
